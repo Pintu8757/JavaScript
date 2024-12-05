@@ -1,1 +1,1 @@
-console.log("pintu");
+console.log("hello");
